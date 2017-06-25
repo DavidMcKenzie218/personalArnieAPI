@@ -1,5 +1,4 @@
-const UI = function(){
-  
+const start = function(){
 }
 
-window.onload = UI;
+window.onload = start;
